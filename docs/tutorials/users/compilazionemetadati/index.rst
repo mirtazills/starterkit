@@ -16,8 +16,8 @@ GET-IT SK allows the user to create metadata for 1 and 2 categories through diff
 
 `EDI metadata editor <http://edidemo.get-it.it/>`_ allows this operations and it is integrated in the GET-IT software suite but it could be used also as a stand alone tool.
 
-•	To create metadata for layers and maps (traditional spatial data) click here.
-•	To create metadata for sensor observations click here.
-•	To create sensor metadata click `here <http://getit.readthedocs.io/en/latest/tutorials/users/managing_observations/sensors_metadata.html>`_.
+•	How to create metadata for `layers <http://getit.readthedocs.io/en/latest/tutorials/users/managing_layers/layers_metadata.html>`_ and maps (traditional spatial data)
+•	How to create metadata for sensor observations
+•	How to create metadata for `sensors <http://getit.readthedocs.io/en/latest/tutorials/users/managing_observations/sensors_metadata.html>`_.
 
 
