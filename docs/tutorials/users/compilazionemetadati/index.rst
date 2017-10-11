@@ -8,9 +8,11 @@ Metadata means information describing data sets, services or instruments which m
 
 All these information need to be provided for the following categories:
 
-   1.	Data resources such as traditional spatial data (layers and maps) 
-   2.	Sensors (probe, buoys, glider, mooring, meteorological sensors, campaign measurements operators, human operators)
-   3.	Web services used to share spatial data on the Web
+
+1.	Data resources such as traditional spatial data (layers and maps) 
+2.	Sensors (probe, buoys, glider, mooring, meteorological sensors, campaign measurements operators, human operators)
+3.	Web services used to share spatial data on the Web
+
    
 GET-IT SK allows the user to create metadata for 1 and 2 categories through different workflows and according to different profiles. 
 
