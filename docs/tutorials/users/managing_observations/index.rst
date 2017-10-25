@@ -4,10 +4,12 @@
 Managing observations
 =====================
 
-An Observation is an action whose result is an estimate of the value of some property of the feature-of-interest (i.e. station, animals or tissue), at a specific point in time, obtained using a specified procedure or sensor (After Cox 2008 cited by
-INSPIRE Cross Thematic Working Group on Observations & Measurements, 2011). An observation can be associated with a specific sensor that have collected the observation, it may be associated with metadata.
+An observation is an action whose result is an estimate of the value of some property of the feature-of-interest (i.e. station, animals or tissue), at a specific point in time, obtained using a specified procedure or sensor (After Cox 2008 cited by
+INSPIRE Cross Thematic Working Group on Observations & Measurements, 2011). For that reason, every observation need to be associated with a specific, well-described sensor which have collected the data.
 
-In this section, you will learn how to add new sensor info (metadata of the sensors), to upload new observations, and share these through specific web services: Sensor Observation Services (SOS).
+In this section, you will learn how to share sensors observations through specific web services (Sensor Observation Services, SOS) to manage observations by following a two-steps pipeline: 
+1. describe sensor (Register a new sensor)
+2. upload sensor observations by associating them to sensors (Upload observations)
 
 In the GET-IT home page Sensor section is dedicated to managing observation and sensors, the figure below show the different interaction parts for managing observations and sensors.
 
