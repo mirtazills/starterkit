@@ -4,25 +4,24 @@
 Managing observations
 =====================
 
-An observation is an action whose result is an estimate of the value of some property of the feature-of-interest (i.e. station, animals or tissue), at a specific point in time, obtained using a specified procedure or sensor (After Cox 2008 cited by
+An **observation** is an action whose result is an estimate of the value of some property of the feature-of-interest (i.e. station, animals or tissue), at a specific point in time, obtained using a specified procedure or sensor (After Cox 2008 cited by
 INSPIRE Cross Thematic Working Group on Observations & Measurements, 2011). For that reason, every observation need to be associated with a specific, well-described sensor which have collected the data.
 
-In this section, you will learn how to share sensors observations through specific web services (Sensor Observation Services, SOS) to manage observations by following a two-steps pipeline: 
-1. describe sensor (Register a new sensor)
-2. upload sensor observations by associating them to sensors (Upload observations)
+In this section, you will learn how to share sensors observations through specific web services (Sensor Observation Services, `SOS <http://www.opengeospatial.org/standards/sos>`_) to manage observations by following a two-steps pipeline: 
 
-In the GET-IT home page Sensor section is dedicated to managing observation and sensors, the figure below show the different interaction parts for managing observations and sensors.
+   
+1.describe sensor by creating sensors metadata (**Register a new sensor**)
+2.upload sensor observations by associating them to registered sensors (**Upload observations**)
+
+You can access to both these functions through the GET-IT home page by clicking Sensors. 
 
 .. figure:: GETIT_Sensor_Interface.png
    :align: center
 
-Two tabs, **Explore SOS** and **Upload Observations**, are dedicated respectively to:
+By clicking **Explore SOS** you can access to the sensors registered in the local repository and to **Register a new sensors** section. More information in :ref:`sensors_metadata`
 
-* show the list of the sensors within local repository and a link with sensor details in order to improve knowledge, provided in XML and in HTML (clicking on Sensor Details green button). More information in :ref:`sensors_metadata` or :ref:`metadata_check`;
+By clicking **Upload observations** you can upload observations by selecting the associated sensor. More information in :ref:`upload_observations`
 
-* upload observations by friendly user interface. Mere information in :ref:`upload_observations`
-
-Two buttons, in the header, provides to register new sensor and get capabilities of the local Sensors Observations Services (SOS).
 
 All the functionality making SWE pure requests.
 
