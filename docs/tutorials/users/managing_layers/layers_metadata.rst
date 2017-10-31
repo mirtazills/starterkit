@@ -1,7 +1,7 @@
 .. _managing_layers.layers_metadata:
 
 =====================
-Managing layers metadata
+Managing layer metadata
 =====================
 
 #. Once your layer has been `uploaded <http://docs.geonode.org/en/master/tutorials/users/managing_layers/upload.html>`_ to GET-IT, you will be able to access to its info page (clicking on the :guilabel:`Layer Info` button), access to its metadata edit form (clicking on the :guilabel:`Edit Metadata` button) or to manage the styles for it (clicking on the :guilabel:`Manage Styles` button).
