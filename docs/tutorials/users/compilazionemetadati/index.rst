@@ -1,7 +1,7 @@
-.. _metadatamanagement:
+.. _menagingmetadata:
 
 =====================
-Metadata Managament
+Managing metadata
 =====================
 
 Metadata means information describing data sets, services or instruments which make their Web discovery possible, and the associate data set more understandable. According to `INSPIRE Directive <http://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32007L0002>`_ metadata shall include different type of information about the data set, the service or the instrument considered such as the conformity with rules and standards, the conditions applying to access and use of information, the quality and validity, the public authorities responsible for their establishment, management, maintenance and distribution, and the limitation on public access. 
