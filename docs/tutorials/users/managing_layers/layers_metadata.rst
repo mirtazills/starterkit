@@ -12,4 +12,10 @@ Managing layer metadata
   •	Click RNDT to compile metadata according to `Italian Repository of Spatial Data <http://www.rndt.gov.it/RNDT/home/index.php>`_    (Repertorio Nazionale dei Dati Territoriali) profile
   •	Click INSPIRE to compile metadata according to `INSPIRE <https://inspire.ec.europa.eu/>`_ profile
 
+#. Once select the profile of interest, you have to choose to:
 
+   #. Click on It button button on the left list box if you want to select the Italian form to compile medatat;
+   #. Click on En button button on the left list box if you want to select the English form to compile metadata;
+   #. Click Save locally button on the left list box if you want to save your metadata
+   #. Click Load last version button on the left list box if you want to 
+ 
