@@ -10,8 +10,8 @@ INSPIRE Cross Thematic Working Group on Observations & Measurements, 2011). For 
 In this section, you will learn how to share sensors observations through specific web services (Sensor Observation Services, `SOS <http://www.opengeospatial.org/standards/sos>`_) to manage observations by following a two-steps pipeline: 
 
    
-1.describe sensor by creating sensors metadata (**Register a new sensor**)
-2.upload sensor observations by associating them to registered sensors (**Upload observations**)
+#. describe sensor by creating sensors metadata (**Register a new sensor**)
+#. upload sensor observations by associating them to registered sensors (**Upload observations**)
 
 You can access to both these functions through the GET-IT home page by clicking Sensors. 
 
