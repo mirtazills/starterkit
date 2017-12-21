@@ -14,10 +14,10 @@ Managing layer metadata
 
 #. Once select the profile of interest, you have to choose to:
 
-   #. Click on It button button on the left list box if you want to select the Italian form to compile medatat;
-   #. Click on En button button on the left list box if you want to select the English form to compile metadata;
-   #. Click Save locally button on the left list box if you want to save your metadata
-   #. Click Load last version button on the left list box if you want to 
+* Click on It button button on the left list box if you want to select the Italian form to compile medatat;
+* Click on En button button on the left list box if you want to select the English form to compile metadata;
+* Click Save locally button on the left list box if you want to save your metadata
+* Click Load last version button on the left list box if you want to 
    
  Note that light blue metadata elements are mandatory. Black metadata elements are optional to complete.
  
